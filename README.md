@@ -1,6 +1,7 @@
 # Embedded_self_driving
 
 [![preview](https://img.youtube.com/vi/EZEgyinBsww/0.jpg)](https://youtu.be/EZEgyinBsww?t=0s)
+[영상입니다. 누르면 유튜브로 연결됩니다.]
 
 ## 라즈베리파이 + 파이카메라 + 파이썬 + openCV 실시간 영상처리
 
